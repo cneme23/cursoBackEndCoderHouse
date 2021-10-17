@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "product": {
+      "title":"lavarropas",
+        "price":5555,
+        "thumbnail":'https//:fotos.com/foto1'
+    }
+  },
+  {
+    "id": 2,
+    "product": {
+       "title":"heladera",
+       "price":5000,
+       "thumbnail":'https//:fotos.com/foto2'
+    }
+  },
+  {
+    "id": 3,
+    "product": {
+      "title":"microondas",
+      "price":9898,
+      "thumbnail":'https//:fotos.com/foto3'
+    }
+  }
+]
